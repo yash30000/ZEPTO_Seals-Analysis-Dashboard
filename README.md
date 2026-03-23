@@ -1,7 +1,7 @@
 # ZEPTO Dashboard
 
 ## Dashboard Preview
-![ZEPTO Dashboard](Dashboard.jpg)
+![ZEPTO Dashboard](dashboard0.1.jpg)
 
 ## Project Overview
 The ZEPTO (Zero Emission Power Technology Operations) Dashboard is designed to provide users with an interactive and comprehensive overview of energy operations, focused on emissions management and analytics.
